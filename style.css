@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    outline: none;
+}
+body{
+    position: relative;
+background-size: cover;
+height: 100vh;
+color: white;
+}
+
+.container{
+   position: absolute;
+   top: 30%;
+   right: 15%;
+   border: 2px solid #fff;
+   padding: 50px;
+  
+   
+}
+
+form p{
+    color: white;
+    font-size: 20px;
+    margin-top: 10px;
+}
+form input{
+    padding: 10px;
+    margin-top: 10px;
+
+}
+form button{
+    padding: 5px;
+    margin-top: 10px;
+}
+.sub-para{
+    margin-top: 10px;
+}
